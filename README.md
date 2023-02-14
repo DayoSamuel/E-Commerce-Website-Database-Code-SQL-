@@ -2,7 +2,7 @@
 
 This SQL code generates a database schema for an e-commerce website, which includes separate versions for physical and digital products.
 
-##Ecommerce Physical Products
+## Ecommerce Physical Products
 
 This SQL code creates a database schema for an e-commerce website. The schema consists of several tables, including users, products, reviews, orders, order_items, payments, and shipping. The tables are designed to capture information about users, products, reviews, and orders, as well as the details of the items ordered, the payments made, and the shipping information.
 
